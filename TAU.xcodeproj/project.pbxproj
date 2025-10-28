@@ -45,7 +45,6 @@
 		24C5F3942EB1146D0020C9C0 /* TAUSteps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TAUSteps.swift; sourceTree = "<group>"; };
 		24C5F3962EB1146D0020C9C0 /* BDDTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BDDTest.swift; sourceTree = "<group>"; };
 		24C5F39A2EB1146D0020C9C0 /* TAUElements.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TAUElements.swift; sourceTree = "<group>"; };
-		24C5F3A12EB1154B0020C9C0 /* TAU.xctestplan */ = {isa = PBXFileReference; lastKnownFileType = text; path = TAU.xctestplan; sourceTree = "<group>"; };
 		9B5BC70A220F55C20047CFA4 /* TAU.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TAU.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B5BC70D220F55C20047CFA4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9B5BC70F220F55C20047CFA4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -130,7 +129,6 @@
 		9B5BC701220F55C20047CFA4 = {
 			isa = PBXGroup;
 			children = (
-				24C5F3A12EB1154B0020C9C0 /* TAU.xctestplan */,
 				9B5BC70C220F55C20047CFA4 /* TAU */,
 				9B5BC721220F55D20047CFA4 /* TAUTests */,
 				24C5F38E2EB1144D0020C9C0 /* TAUUITests */,
